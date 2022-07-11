@@ -1,2 +1,0 @@
-# SoftUniOOP
-exercises
